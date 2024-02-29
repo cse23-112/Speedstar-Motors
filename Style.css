@@ -5,22 +5,23 @@ body
 h1
 {
   color:white;
-  text-align:Centre;
+  text-align:Center;
   font-type:Itallian;
 }
 h2
 {
   color:white;
-  text-align:Centre;
+  text-align:Center;
 }
 h3
 {
   color:red;
-  text-align:Centre;
+  text-align:Center;
 }
 h4
 {
-  color:Left;
+  color:White;
+  text-align:Left;
 }
 p
 {
